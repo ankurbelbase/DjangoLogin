@@ -1,2 +1,2 @@
 # DjangoLogin
-simple django login using inbuit django login
+simple django login using inbuilt django login
